@@ -20,7 +20,7 @@ defmodule DungeonCrawl.Heroes do
     },
     %Character{
       name: "Rogue",
-      description: "Rogue has high variability of attach damage",
+      description: "Rogue has high variability of attack damage",
       hit_points: 12,
       max_hit_points: 12,
       damage_range: 1..12,
